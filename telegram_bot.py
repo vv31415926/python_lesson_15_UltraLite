@@ -1,7 +1,7 @@
 import telebot
 import pprint
 
-TOKEN = '2053187431:AAGh20DBtO4x6SCVG-1r4ehMz80arH1_ObY'
+TOKEN = '*'
 
 # экземпляр класса Telebot
 bot = telebot.TeleBot( TOKEN, parse_mode=None )
